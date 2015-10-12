@@ -13,4 +13,22 @@
     <script src="services/ReviewsFactory.js"></script>
     <script src="services/UtilitiesFactory.js"></script>
   </head>
+  <body data-role="page">
+    <div class="container">
+      <div ui-view="header">
+      </div>
+      <div ui-view="enter">
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div ui-view="sideBar">
+          </div>
+        </div>
+        <div class="col-md-8">
+          <div ui-view="review"></div>
+          <div ui-view="newReviewForm"></div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>

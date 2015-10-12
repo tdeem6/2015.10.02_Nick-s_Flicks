@@ -20,7 +20,6 @@ nicksFlicks.config(function($stateProvider) {
     views: {
       'header': {
         templateUrl:'partials/header.html',
-        //no controller
       },
       'sideBar': {
         templateUrl: 'partials/sidebar.html',
