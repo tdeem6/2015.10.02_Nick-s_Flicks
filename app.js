@@ -6,7 +6,6 @@ nicksFlicks.config(function($stateProvider) {
     views: {
       'header': {
         templateUrl:'partials/header.html',
-        //no controller
       },
       'enter': {
         templateUrl: 'partials/home.html',
