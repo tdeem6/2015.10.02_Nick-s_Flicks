@@ -1,0 +1,48 @@
+#wider-btn {
+  width: 200px;
+}
+#toggleNight {
+  margin-top: 20px;
+}
+#title h3{
+  color: black;
+}
+.night #title h3{
+  color: gray;
+}
+#title:hover{
+  text-decoration: none;
+}
+
+.main {
+  background-color: inherit;
+}
+
+.night {
+  background-color: black;
+  color: gray;
+}
+.night input {
+  background-color: gray;
+  color: black;
+  border: 0px;
+}
+.night textarea {
+  background-color: gray;
+  color: black;
+  border: 0px;
+}
+.night .btn-default {
+  background-color: gray;
+  border: 0;
+}
+
+ul {
+  list-style-type: none;
+  border: 0px;
+}
+
+
+.review-content {
+  margin-top: -20px;
+}
