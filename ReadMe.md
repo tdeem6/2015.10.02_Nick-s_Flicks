@@ -14,7 +14,7 @@ Setup
 $ python -m SimpleHTTPServer
 ```
 * Open 'localhost:8000' in a browser of your choice
-* Enjoy responsibly.
+* Rant or rave away!
 
 Technologies Used
 ----------
