@@ -22,7 +22,7 @@ nicksFlicks.factory('ReviewsFactory', function ReviewsFactory() {
     factory.reviews.push({
       title: factory.reviewTitle,
       description: factory.reviewDescription,
-      id: factory.reviews.length +1
+      id: factory.reviews.length + 1
     });
     factory.reviewTitle = null;
     factory.reviewDescription = null;
