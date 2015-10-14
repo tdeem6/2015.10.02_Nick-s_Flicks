@@ -4,8 +4,7 @@ Nick's Flicks
 By Tyler Deem, 2015.10.02
 
 A simple movie review site that allows users to add a review for a movie, and view a list of other users reviews.
-
-Currently not finished, to be continued... :/
+App has the option to toggle between a day and night view.
 
 Setup
 ----------
